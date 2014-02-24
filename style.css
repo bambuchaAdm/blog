@@ -1,0 +1,29 @@
+
+
+body {
+	background-color: rgb(190,219,193);
+}
+
+div {
+	background-color: rgb(131,152,220);
+}
+
+div.post-board {
+	padding: 8px;
+	background-color: transparent;
+}
+
+div.block {
+	width : 720px;
+	float: left;
+	margin: 8px 8px 8px 8px;
+	padding: 8px;
+}
+
+div.menu {
+	float: right;
+	margin: 36px;
+	padding: 16px;
+	width: 250px;
+	height: 400px;
+}
