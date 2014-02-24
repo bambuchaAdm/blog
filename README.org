@@ -1,0 +1,14 @@
+* Bambucha Blog
+
+Application for my blog.
+
+** Planned technology
+
+*** Frontend
+ + angular.js
+ + mathjax
+
+*** Backend
+ + scala or go 
+ + git
+ + some-markup
